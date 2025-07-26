@@ -1,7 +1,20 @@
-# Getting Started with Create React App
+# Seattle Eastside Event Finder
+A React/TypeScript app to find local events using a mock API. Features responsive UI with Tailwind CSS, filtering, and accessibility.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
+- Displays Seattle events with date and category filters.
+- Responsive design with Tailwind CSS.
+- Type-safe with TypeScript.
+- Tested with Jest/React Testing Library.
 
+## Demo
+[Live Demo link - to be added]
+
+## Installation
+```bash
+npm install
+npm start
+```
 ## Available Scripts
 
 In the project directory, you can run:
