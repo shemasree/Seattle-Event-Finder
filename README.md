@@ -8,7 +8,8 @@ A React/TypeScript app to find local events using a mock API. Features responsiv
 - Tested with Jest/React Testing Library.
 
 ## Demo
-[Live Demo link - to be added]
+Demo link - seattle-event-finder-g1i3t7lkr-hemasrees-projects-16d7f2dc.vercel.app
+
 
 ## Installation
 ```bash
